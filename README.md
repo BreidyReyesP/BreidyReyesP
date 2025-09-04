@@ -48,6 +48,4 @@
 
 </p>
 
-###  Chavan](https://github.com/100rabhcsmc)
-
 Last Edited on: 04/09/2025
