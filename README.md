@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/BreidyReyesP" target="blank">Breidy Reyes 
+9<h1 align="center">Hi 👋, I'm <a href="https://github.com/BreidyReyesP" target="blank">Breidy Reyes 
 </a></h1>
 <h3 align="center">I'm passionate about web development from Colombia 🇨🇴</h3>
 
@@ -15,10 +15,7 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/BreidyReyesP">
-		 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" 
+		 
       </div>
 
 </p>
