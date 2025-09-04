@@ -1,4 +1,4 @@
-9<h1 align="center">Hi 👋, I'm <a href="https://github.com/BreidyReyesP" target="blank">Breidy Reyes 
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/BreidyReyesP" target="blank">Breidy Reyes 
 </a></h1>
 <h3 align="center">I'm passionate about web development from Colombia 🇨🇴</h3>
 
