@@ -42,7 +42,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/BreidyReyesP">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
