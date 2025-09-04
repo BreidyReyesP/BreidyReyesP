@@ -1,3 +1,6 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/BreidyReyesP" target="blank">Breidy Reyes 
 </a></h1>
 <h3 align="center">I'm passionate about web development from Colombia 🇨🇴</h3>
