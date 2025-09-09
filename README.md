@@ -9,7 +9,6 @@
 <hr>
 
 ```
-I-am-vishalmaurya@github
 -------------------------
 💻 I am a Full Stack developer in web development
 📚 I am studying software analysis and development.
